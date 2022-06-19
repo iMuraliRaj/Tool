@@ -7,3 +7,4 @@
 # 7. OWASP ZAP
 # 8. Contour
 # 9. Karate Framework
+# 10. SQUISH
